@@ -1,0 +1,26 @@
+{
+    "description": "Write your thoughts to a journal file without leaving ulauncher",
+    "developer_name": "Anders Sveen",
+    "icon": "images/icon.png",
+    "name": "Logseq Journal",
+    "options": {
+        "query_debounce": 0.05
+    },
+    "preferences": [
+        {
+            "id": "journal_kw",
+            "name": "Journal",
+            "type": "keyword",
+            "default_value": "lqj",
+            "description": "Write to the Logseq journal"
+        },
+        {
+            "id": "logseq_path",
+            "name": "Logseq path",
+            "type": "input",
+            "default_value": "~/Dropbox/Apps/Logseq",
+            "description": "The location of your Logseq db"
+        }
+    ],
+    "required_api_version": "^2.0.0"
+}
