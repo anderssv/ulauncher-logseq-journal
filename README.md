@@ -1,4 +1,4 @@
-# Ulauncher Lohseq Journal extension
+# Ulauncher Logseq Journal extension
 
 [Ulauncher](https://ulauncher.io) extension that adds an entry to the [Logseq](https://logseq.com/) journal
 
