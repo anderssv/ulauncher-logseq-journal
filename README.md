@@ -1,6 +1,6 @@
-# Ulauncher Journal extension
+# Ulauncher Lohseq Journal extension
 
-[Ulauncher](https://ulauncher.io) extension that adds an entry to the Logseq journal
+[Ulauncher](https://ulauncher.io) extension that adds an entry to the [Logseq](https://logseq.com/) journal
 
 It is a bit opinionated:
 - Adds to todays journal
@@ -29,7 +29,7 @@ Contributions, issues and Features requests are welcome.
 
 Icon by [Note taking icons created by Paul J. - Flaticon](https://www.flaticon.com/free-icons/note-taking)
 
-Set up and code based on [ULaunched Journal](https://github.com/ckrybus/ulauncher-journal)
+Set up and code based on [ULauncher Journal](https://github.com/ckrybus/ulauncher-journal)
 
 ## Licence
 
